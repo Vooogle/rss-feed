@@ -7,60 +7,114 @@
     <item>
       <title>why are you down here.</title>
       <link />
-      <description># Warning do not scroll down
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-# stop
-#
-#
-#
-#
-# please stop
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-# stop
-#
-#
-#
-# i warned you.
-&lt;iframe 
-
-    width="560" 
-
-    height="315" 
-
-    src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&amp;mute=1"
-
-    title="YouTube video player"
-
-    frameborder="0"
-
-    allow="autoplay; encrypted-media"
-
-    allowfullscreen&gt;
-
+      <description># Warning do not scroll down
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+# stop
+
+#
+
+#
+
+#
+
+#
+
+# please stop
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
+
+# stop
+
+#
+
+#
+
+#
+
+# i warned you.
+
+&lt;iframe 
+
+
+
+    width="560" 
+
+
+
+    height="315" 
+
+
+
+    src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&amp;mute=1"
+
+
+
+    title="YouTube video player"
+
+
+
+    frameborder="0"
+
+
+
+    allow="autoplay; encrypted-media"
+
+
+
+    allowfullscreen&gt;
+
+
+
 &lt;/iframe&gt;</description>
       <pubDate>Sat, 30 May 2026 07:00:35 +0000</pubDate>
       <guid>entry-Sat, 30 May 2026 07:00:35 +0000</guid>
@@ -86,6 +140,22 @@ TIles are fun too so.
 $$noise-generator,tile-generator$$</description>
       <pubDate>Sat, 30 May 2026 07:04:45 +0000</pubDate>
       <guid>entry-Sat, 30 May 2026 07:04:45 +0000</guid>
+      <category>tools</category>
+      <author>Phil</author>
+    </item>
+    <item>
+      <title>Video Tools</title>
+      <link />
+      <description># Are you a youtube video maker, do you not have an editing software?
+**Congratulations, you can now edit your videos online!**
+*Cutting and thats about it*
+## Other than that..
+**Video Compressing**
+and
+**Video Converting**
+$$video-editor,video-converter,video-compressor$$</description>
+      <pubDate>Sat, 30 May 2026 12:25:12 +0000</pubDate>
+      <guid>entry-Sat, 30 May 2026 12:25:12 +0000</guid>
       <category>tools</category>
       <author>Phil</author>
     </item>
