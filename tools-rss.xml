@@ -1,1 +1,25 @@
-
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Tools RSS</title>
+    <link />
+    <description>Curated tools feed</description>
+    <item>
+      <title>Welcome to Phil.tf!</title>
+      <link />
+      <description># I make a the tool:
+Many many tool i made, you browse.
+## Tools:
+$$tools
+noise-generator
+tile-generator
+tld-list
+p2p-handshake
+$$</description>
+      <pubDate>Sat, 30 May 2026 06:39:43 +0000</pubDate>
+      <guid>entry-Sat, 30 May 2026 06:39:43 +0000</guid>
+      <category>Tools</category>
+      <author>Phil</author>
+    </item>
+  </channel>
+</rss>
